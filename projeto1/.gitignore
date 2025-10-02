@@ -1,0 +1,16 @@
+# ESP-IDF build output
+build/
+sdkconfig
+sdkconfig.old
+dependencies.lock
+
+# Managed components
+managed_components/
+
+# Python-related build artifacts (if using Python in the project or for tools)
+__pycache__/
+*.pyc
+
+# IDE-specific files (if applicable)
+.vscode/
+.idea/
